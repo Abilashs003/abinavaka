@@ -1,4 +1,4 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Angular Basics](README.md)
 
